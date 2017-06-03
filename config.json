@@ -1,0 +1,7 @@
+{
+    "sshhost" : "94.177.171.61",
+    "sshport" : "22",
+    "sshuser" : "admin",
+    "sshauth": "password",
+    "port": 8080
+}
